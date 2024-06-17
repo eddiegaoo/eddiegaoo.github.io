@@ -13,4 +13,7 @@ I am currently a third-year Ph.D. student in the [DB4AI](https://cse.hkust.edu.h
 
 Publications
 ======
-
+- SIMPLE: Efficient Temporal Graph Neural Network Training at Scale with Dynamic Data Placement.
+  **Shihong Gao**, Yiming Li, Xin Zhang, Yanyan Shen, Yingxia Shao, Lei Chen. SIGMOD 2024.
+- ETC: Efficient Training of Temporal Graph Neural Networks over Large-scale Dynamic Graphs.
+  **Shihong Gao**, Yiming Li, Yanyan Shen, Yingxia Shao, Lei Chen. VLDB 2024.
