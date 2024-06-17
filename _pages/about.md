@@ -17,3 +17,6 @@ Publications
   **Shihong Gao**, Yiming Li, Xin Zhang, Yanyan Shen, Yingxia Shao, Lei Chen. SIGMOD 2024.
 - ETC: Efficient Training of Temporal Graph Neural Networks over Large-scale Dynamic Graphs.
   **Shihong Gao**, Yiming Li, Yanyan Shen, Yingxia Shao, Lei Chen. VLDB 2024.
+- SpanGNN: Towards Memory-Efficient Graph Neural Networks via Spanning Subgraph Training.
+  Xizhi Gu, Hongzheng Li, **Shihong Gao**, Xinyan Zhang, Lei Chen, Yingxia Shao. ECML-PKDD 2024 (to appear).
+
