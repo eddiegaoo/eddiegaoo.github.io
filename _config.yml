@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shihong Gao / Personal Webpage"
+title                    : "Shihong Gao / Homepage"
 title_separator          : "-"
 name                     : &name "Shihong Gao"
 description              : &description "PhD student from HKUST"
