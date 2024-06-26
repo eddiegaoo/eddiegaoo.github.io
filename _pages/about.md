@@ -14,14 +14,20 @@ I am currently a third-year Ph.D. student in the [DB4AI](https://cse.hkust.edu.h
 Publications
 ======
 - <u>Efficient Training of Graph Neural Networks on Large Graphs.</u> <br>
-  Yanyan Shen, Lei Chen, Jingzhi Fang, Xin Zhang, **Shihong Gao**, Hongbo Yin. VLDB 2024 (to appear).
+  Yanyan Shen, Lei Chen, Jingzhi Fang, Xin Zhang, **Shihong Gao**, Hongbo Yin. <br>
+  VLDB 2024 (to appear).
 - <u>SpanGNN: Towards Memory-Efficient Graph Neural Networks via Spanning Subgraph Training.</u> <br>
-  Xizhi Gu, Hongzheng Li, **Shihong Gao**, Xinyan Zhang, Lei Chen, Yingxia Shao. ECML-PKDD 2024 (to appear).
+  Xizhi Gu, Hongzheng Li, **Shihong Gao**, Xinyan Zhang, Lei Chen, Yingxia Shao. <br>
+  ECML-PKDD 2024 (to appear).
 - <u>SIMPLE: Efficient Temporal Graph Neural Network Training at Scale with Dynamic Data Placement.</u> <br>
-  **Shihong Gao**, Yiming Li, Xin Zhang, Yanyan Shen, Yingxia Shao, Lei Chen. SIGMOD 2024.
+  **Shihong Gao**, Yiming Li, Xin Zhang, Yanyan Shen, Yingxia Shao, Lei Chen. <br>
+  SIGMOD 2024.
 - <u>ETC: Efficient Training of Temporal Graph Neural Networks over Large-scale Dynamic Graphs.</u> <br>
-  **Shihong Gao**, Yiming Li, Yanyan Shen, Yingxia Shao, Lei Chen. VLDB 2024.
+  **Shihong Gao**, Yiming Li, Yanyan Shen, Yingxia Shao, Lei Chen. <br>
+  VLDB 2024.
 - <u>A Discover of Class and Image Level Variance between Different Pruning Methods on Convolutional Neural Networks.</u> <br>
-  **Shihong Gao**. IEEE SmartIoT 2020.
+  **Shihong Gao**. <br>
+  IEEE SmartIoT 2020.
 - <u>PretiMeth: Precise Prediction Models for DNA Methylation Based on Single Methylation Mark.</u> <br>
-  Jianxiong Tang, Jianxiao Zou, Xiaoran Zhang, Mei Fan, Qi Tian, Shuyao Fu, **Shihong Gao**, Shicai Fan. BMC Genomics 2020.
+  Jianxiong Tang, Jianxiao Zou, Xiaoran Zhang, Mei Fan, Qi Tian, Shuyao Fu, **Shihong Gao**, Shicai Fan. <br>
+  BMC Genomics 2020.
