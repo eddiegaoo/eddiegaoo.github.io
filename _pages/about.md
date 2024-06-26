@@ -13,15 +13,15 @@ I am currently a third-year Ph.D. student in the [DB4AI](https://cse.hkust.edu.h
 
 Publications
 ======
-- Efficient Training of Graph Neural Networks on Large Graphs.
+- <u>Efficient Training of Graph Neural Networks on Large Graphs.</u> <br>
   Yanyan Shen, Lei Chen, Jingzhi Fang, Xin Zhang, **Shihong Gao**, Hongbo Yin. VLDB 2024 (to appear).
-- SpanGNN: Towards Memory-Efficient Graph Neural Networks via Spanning Subgraph Training.
+- <u>SpanGNN: Towards Memory-Efficient Graph Neural Networks via Spanning Subgraph Training.</u> <br>
   Xizhi Gu, Hongzheng Li, **Shihong Gao**, Xinyan Zhang, Lei Chen, Yingxia Shao. ECML-PKDD 2024 (to appear).
-- SIMPLE: Efficient Temporal Graph Neural Network Training at Scale with Dynamic Data Placement.
+- <u>SIMPLE: Efficient Temporal Graph Neural Network Training at Scale with Dynamic Data Placement.<u> <br>
   **Shihong Gao**, Yiming Li, Xin Zhang, Yanyan Shen, Yingxia Shao, Lei Chen. SIGMOD 2024.
-- ETC: Efficient Training of Temporal Graph Neural Networks over Large-scale Dynamic Graphs.
+- <u>ETC: Efficient Training of Temporal Graph Neural Networks over Large-scale Dynamic Graphs.<u> <br>
   **Shihong Gao**, Yiming Li, Yanyan Shen, Yingxia Shao, Lei Chen. VLDB 2024.
-- A Discover of Class and Image Level Variance between Different Pruning Methods on Convolutional Neural Networks.
+- <u>A Discover of Class and Image Level Variance between Different Pruning Methods on Convolutional Neural Networks.<u> <br>
   **Shihong Gao**. IEEE SmartIoT 2020.
-- PretiMeth: Precise Prediction Models for DNA Methylation Based on Single Methylation Mark.
+- <u>PretiMeth: Precise Prediction Models for DNA Methylation Based on Single Methylation Mark.<u> <br>
   Jianxiong Tang, Jianxiao Zou, Xiaoran Zhang, Mei Fan, Qi Tian, Shuyao Fu, **Shihong Gao**, Shicai Fan. BMC Genomics 2020.
