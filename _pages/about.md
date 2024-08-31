@@ -27,7 +27,7 @@ Publications
   *VLDB 2024 (Research Track)*.
 - <u>Efficient Training of Graph Neural Networks on Large Graphs.</u> <br>
   Yanyan Shen, Lei Chen, Jingzhi Fang, Xin Zhang, **Shihong Gao**, Hongbo Yin. <br>
-  *VLDB 2024* (Tutorial Track).
+  *VLDB 2024 (Tutorial Track)*.
 - <u>SpanGNN: Towards Memory-Efficient Graph Neural Networks via Spanning Subgraph Training.</u> <br>
   Xizhi Gu, Hongzheng Li, **Shihong Gao**, Xinyan Zhang, Lei Chen, Yingxia Shao. <br>
   *ECML-PKDD 2024 (Research Track)*.
