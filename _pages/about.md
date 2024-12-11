@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year Ph.D. student in the [DB4AI](https://cse.hkust.edu.hk/db4ai/) group at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) supervised by Professor [Lei Chen](https://cse.hkust.edu.hk/~leichen/) (IEEE Fellow). Prior to this, I received my Bachelor's degree (2017-2021) from the [School of Automation Engineering](https://en.uestc.edu.cn/info/1015/1409.htm) at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/).
+I am currently a fourth-year Ph.D. student in the [DB4AI](https://cse.hkust.edu.hk/db4ai/) group at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) supervised by Professor [Lei Chen](https://cse.hkust.edu.hk/~leichen/) (IEEE Fellow). Prior to this, I received my Bachelor's degree (2017-2021) from the [School of Automation Engineering](https://en.uestc.edu.cn/info/1015/1409.htm) at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/).
 
 Research Interests
 ======
@@ -37,3 +37,8 @@ Publications
 - <u>PretiMeth: Precise Prediction Models for DNA Methylation Based on Single Methylation Mark.</u> <br>
   Jianxiong Tang, Jianxiao Zou, Xiaoran Zhang, Mei Fan, Qi Tian, Shuyao Fu, **Shihong Gao**, Shicai Fan. <br>
   *BMC Genomics 2020*.
+
+Teaching Experience
+======
+- DSAA 5002: Data Mining and Knowledge Discovery in Data Science, Fall 2024, HKUST <br>
+- DSAA 5020: Foundation of Data Science and Analytics, Fall 2024, HKUST <br>
