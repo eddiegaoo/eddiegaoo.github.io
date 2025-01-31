@@ -19,6 +19,9 @@ My research interests broadly lie in the efficient training/inference/deployment
 
 Publications
 ======
+- <u>Apt-Serve: Adaptive Request Scheduling on Hybrid Cache for Scalable LLM Inference Serving.</u> <br>
+  **Shihong Gao**, Xin Zhang, Yanyan Shen, Lei Chen. <br>
+  *SIGMOD 2025 (Research Track)*.
 - <u>SIMPLE: Efficient Temporal Graph Neural Network Training at Scale with Dynamic Data Placement.</u> <br>
   **Shihong Gao**, Yiming Li, Xin Zhang, Yanyan Shen, Yingxia Shao, Lei Chen. <br>
   *SIGMOD 2024 (Research Track)*.
