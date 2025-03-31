@@ -11,14 +11,14 @@ I am currently a fourth-year Ph.D. student in the [DB4AI](https://cse.hkust.edu.
 
 Research Interests
 ======
-I am broadly interested in machine learning systems, data management, and the intersection of the both. Currently, my research is centered on optimizing efficient inference and serving for large language models (LLMs).
+I am broadly interested in machine learning systems, data management, and the intersection of the both. Currently, my research is centered on optimizing efficient inference and serving for large language models (LLMs). 
 
 
 Publications
 ======
 - <u>Apt-Serve: Adaptive Request Scheduling on Hybrid Cache for Scalable LLM Inference Serving.</u> <br>
   **Shihong Gao**, Xin Zhang, Yanyan Shen, Lei Chen. <br>
-  *SIGMOD 2025 (Research Track)*. [to appear]
+  *SIGMOD 2025 (Research Track)*. 
 - <u>SIMPLE: Efficient Temporal Graph Neural Network Training at Scale with Dynamic Data Placement.</u> <br>
   **Shihong Gao**, Yiming Li, Xin Zhang, Yanyan Shen, Yingxia Shao, Lei Chen. <br>
   *SIGMOD 2024 (Research Track)*.
