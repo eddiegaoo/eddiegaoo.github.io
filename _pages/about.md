@@ -11,7 +11,7 @@ I am currently a fourth-year Ph.D. student in the [DB4AI](https://cse.hkust.edu.
 
 Research Interests
 ======
-I am broadly interested in machine learning systems, data management, and the intersection of the both. Currently, my research is centered on optimizing efficient inference and serving for large language models (LLMs). 
+I am broadly interested in machine learning, data management, systems, and their intersections. Currently, my research is centered on optimizing inference serving of large language models (LLMs). 
 
 
 Publications
