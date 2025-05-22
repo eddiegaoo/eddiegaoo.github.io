@@ -42,3 +42,4 @@ Teaching Experience
 ======
 - DSAA 5002: Data Mining and Knowledge Discovery in Data Science, Fall 2024, HKUST <br>
 - DSAA 5020: Foundation of Data Science and Analytics, Fall 2024, HKUST <br>
+- UFUG 2602: Data Structures and Algorithm Design, Spring 2025, HKUST <br>
