@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a final-year Ph.D. candidate in the [DB4AI](https://cse.hkust.edu.hk/db4ai/) group at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) supervised by [Professor Lei Chen](https://cse.hkust.edu.hk/~leichen/) (ACM Fellow & IEEE Fellow). I am also very fortunate to work with [Professor Yanyan Shen](https://www.cs.sjtu.edu.cn/~shen-yy/) and [Professor Yingxia Shao](https://teacher.bupt.edu.cn/shaoyingxia/en/index.htm) during the PhD study. Prior to this, I received my Bachelor's degree (2017-2021) from the [School of Automation Engineering](https://en.uestc.edu.cn/info/1015/1409.htm) at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/).
+I am currently an AI Infra Engineer & Researcher at Tencent Cloud [(Project Up)](https://join.qq.com/qingyun.html). I obtained my PhD degree in data science and analytics from [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) under the supervison of [Professor Lei Chen](https://cse.hkust.edu.hk/~leichen/) (ACM Fellow & IEEE Fellow). I am also very fortunate to work with [Professor Yanyan Shen](https://www.cs.sjtu.edu.cn/en/jiaoshiml/shenyanyan.html) and [Professor Yingxia Shao](https://teacher.bupt.edu.cn/shaoyingxia/en/index.htm) during the PhD study. Prior to this, I received my Bachelor's degree (2017-2021) from the [School of Automation Engineering](https://en.uestc.edu.cn/info/1015/1409.htm) at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/).
 
 Research Interests
 ======
-I am broadly interested in machine learning, data management, systems, and their intersections. Currently, my research is centered on optimizing inference serving of large language models (LLMs). 
+I am broadly interested in machine learning, data management, systems, and their intersections. Currently, my research is centered on optimizing inference serving of large language models (LLMs). Currently, I am working on RL Infra.
 
 
 Publications
