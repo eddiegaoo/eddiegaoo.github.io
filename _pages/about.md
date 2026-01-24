@@ -11,7 +11,7 @@ I am currently an AI Infra Engineer & Researcher at Tencent Cloud [(Project Up)]
 
 Research Interests
 ======
-I am broadly interested in machine learning, data management, systems, and their intersections. Currently, my research is centered on optimizing inference serving of large language models (LLMs). Currently, I am working on RL Infra.
+Duing my PhD study, I was broadly interested in machine learning, data management, systems, and their intersections. Currently, my focus is on RL Infra.
 
 
 Publications
