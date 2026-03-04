@@ -11,7 +11,9 @@ I am currently an AI Infra Engineer & Researcher at Tencent Cloud [(Project Up)]
 
 Research Interests
 ======
-Duing my PhD study, I was broadly interested in machine learning, data management, systems, and their intersections. Currently, my focus is on RL Infra.
+During my PhD, I developed broad interests in machine learning, data management, systems, and their intersections. My research focused on scheduling-oriented optimizations at the framework level to realize efficient and scalable deep learning pipelines, such as T-GNN training and LLM inference serving.
+
+Currently, in industry, my interests extend across the full AI Infra stack.
 
 
 Publications
