@@ -13,7 +13,9 @@ Research Interests
 ======
 During my PhD, I developed broad interests in machine learning, data management, systems, and their intersections. My research focused on scheduling-oriented optimizations at the framework level to realize efficient and scalable deep learning pipelines, such as T-GNN training and LLM inference serving.
 
-Currently, in industry, my interests extend across the full AI Infra stack.
+~~Currently, in industry, my interests extend across the full AI Infra stack.~~ \
+I am currently quite devoted to agent harness research, and working on agentic codegen project, which is kinda fun. 
+Good at finding insights among data.
 
 
 Publications
